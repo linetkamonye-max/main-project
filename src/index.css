@@ -2,10 +2,10 @@
 
 
 :root {
-  --primary-color: #F4991A;
+  --primary-color: #0bafaf;
   --secondary-color: #344F1F;
-  --text-color:#F9F5F0;
+  --text-color:#00ffea;
   --font:  "Momo Signature", cursive;
-  --btn: #62109F;
-  --btn-hover: #310950; 
+  --btn: #d5fa05;
+  --btn-hover: #ee12dc; 
 }

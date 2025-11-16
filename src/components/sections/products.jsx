@@ -5,8 +5,8 @@ export const Allproducts = () => {
   return (
     <div className='flex flex-col justify-center items-center space-y-6 p-10 bg-(--primary-color) text-(--text-color)'>
       <div className='text-center mb-6'>
-        <h3>All products</h3>
-        <p>The products we have in stock.</p>
+        <h3>All airlines</h3>
+        <p>The airlines we provide.</p>
       </div>
 
       <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 w-full'>
@@ -14,7 +14,8 @@ export const Allproducts = () => {
           (item)=>{
             return(
               <div key={item.id}>
-                <img src={item.imageUrl} alt={item.name} className='w-full  object-cover rounded-md'
+                <img src={item.imageUrl} alt={item.name} className='"flex flex-col h-[430px] justify-start items-center space-y-2 bg-white shadow-md hover:shadow-xl transition-shadow duration-300 ease-in-out cursor-pointer max-w-sm  mt-4 mx-auto
+                 p-4 rounded-lg  sm:h-[380px] md:h-[450px]    ">'
                  />
                 <h3 className='text-lg font-semibold mt-2'
                 >{item.name}</h3>

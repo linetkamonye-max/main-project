@@ -1,22 +1,22 @@
 export const newProducts=[
     {
         id:1,
-        name:"Blue Denim rugged Jeans",
-        imgUrl:'https://i.pinimg.com/736x/35/1b/0f/351b0f489e85a821c5ebf5a51836e95e.jpg' //string
+        name:"Etihad",
+        imgUrl:'https://i.pinimg.com/736x/eb/1c/59/eb1c5988f4a5882c2da40057c6bda8f0.jpg' //string
     },
      {
         id:2,
-        name:"black Jeans",
-        imgUrl:'https://i.pinimg.com/736x/09/8d/1a/098d1abb6ebeb43d66f0956152224b7b.jpg' //string
+        name:"swiss",
+        imgUrl:'https://i.pinimg.com/736x/86/d6/ce/86d6cecfc52359f2b8c3c8c773dafddb.jpg' //string
     },
      {
         id:3,
-        name:"jots",
-        imgUrl:'https://i.pinimg.com/1200x/f9/3f/94/f93f940a522304752c1bbad035377e00.jpg' //string
+        name:"American",
+        imgUrl:'https://i.pinimg.com/736x/c6/e5/ba/c6e5ba625a43b331f704a72a33cb9260.jpg' //string
     },
        {
         id:5,
-        name:"buggy Jeans 2",
-        imgUrl:'https://i.pinimg.com/736x/30/10/b2/3010b29aa4b1fab732c68dd8f4709399.jpg' //string
+        name:"lufthansa",
+        imgUrl:'https://i.pinimg.com/1200x/99/a2/52/99a252d4e10385cf0cf2796070c3f6fe.jpg' //string
     },
 ];
